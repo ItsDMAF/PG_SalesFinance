@@ -1,20 +1,17 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package pg_salesfinance;
 
-/**
- *
- * @author dmafa
- */
 public class PG_SalesFinance {
-
-    /**
-     * @param args the command line arguments
-     */
+    
+    //Que apareycan tdos los combos
+    //Precio Total y Individual
+    //Generar Facturas
+    
+    //Que sea tactil
+    //Informacion financiera (Dividido mensual)
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+        
     }
     
 }
